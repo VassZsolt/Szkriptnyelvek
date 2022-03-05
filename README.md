@@ -86,3 +86,23 @@ https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Py3.20130211a
 https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Py3.20120818g  
 AoC2017, Day 4, Part 1 (High-Entropy Passphrases)  
 https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Py3.20180307b  
+
+__7. hét__  
+zipper  
+https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Py3.20180312a  
+Fájlkezelés  
+https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Py3.20121006d  
+Zárójelek  
+https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Py3.20130902e  
+trükkös tüntető  
+https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Py3.20141029a  
+
+__8.het__  
+Verem és sor  
+https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Py3.20141125a  
+Gömb és ellipszis  
+Sor két veremmel  
+https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Py3.20130325a  
+Hangrend enum használatával  
+AoC2017, Day 2, Part 1 (Corruption Checksum)  
+https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Py3.20180307a  
