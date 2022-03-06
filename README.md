@@ -97,7 +97,7 @@ https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Py3.20130902e
 trükkös tüntető  
 https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Py3.20141029a  
 
-__8.het__  
+__8.hét__  
 Verem és sor  
 https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Py3.20141125a  
 Gömb és ellipszis  
@@ -106,3 +106,25 @@ https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Py3.20130325a
 Hangrend enum használatával  
 AoC2017, Day 2, Part 1 (Corruption Checksum)  
 https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Py3.20180307a  
+
+__9.hét__  
+nyomtatandó oldalak + típus annotáció  
+https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Py3.20140314a  
+Prím palindróm + típus annotáció  
+https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Py3.20130902d  
+palindróm két számrendszerben is + típus annotáció  
+https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Py3.20141126a  
+
+__10.hét__  
+MyShuffle + típus annotáció  
+https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Py3.20120905c  
+Bullshit generátor  
+https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Py3.20121030a  
+Haladó rendezés  
+Kivétel kezelés  
+Hatoslottó  
+https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Py3.20160613a  
+Szökés az Alcatrazból (Alcatraz.py)  
+https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Py3.20120815k  
+Naprendszer  
+https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Py3.20200415a  
